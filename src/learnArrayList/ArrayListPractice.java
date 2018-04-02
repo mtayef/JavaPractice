@@ -1,4 +1,4 @@
-package arrayPractice;
+package learnArrayList;
 import javax.swing.*;
 import java.util.ArrayList;
 
