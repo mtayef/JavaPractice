@@ -33,10 +33,10 @@ public class ArrayPractice {
         int minimum = numbers[0][0];
 
         for (int r = 0; r <numbers.length ; r++) {
-            for (int i = 0; i < numbers[r].length; i++) {
-                if (numbers[r][i]<minimum)
+            for (int c = 0; c < numbers[r].length; c++) {
+                if (numbers[r][c]<minimum)
                 {
-                    minimum=numbers[r][i];
+                    minimum=numbers[r][c];
                 }
             }
         }
@@ -48,10 +48,10 @@ public class ArrayPractice {
         int maximum = numbers[0][0];
 
         for (int r = 0; r <numbers.length ; r++) {
-            for (int i = 0; i < numbers[r].length; i++) {
-                if (numbers[r][i]>maximum)
+            for (int c = 0; c < numbers[r].length; c++) {
+                if (numbers[r][c]>maximum)
                 {
-                    maximum=numbers[r][i];
+                    maximum=numbers[r][c];
                 }
             }
         }
