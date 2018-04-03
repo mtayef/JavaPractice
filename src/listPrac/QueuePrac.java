@@ -19,7 +19,6 @@ public class QueuePrac {
 		
 		q.poll();
 		System.out.printf("%s ", q);
-		
 	}
 
 }
