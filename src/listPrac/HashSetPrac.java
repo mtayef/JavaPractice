@@ -9,7 +9,8 @@ public class HashSetPrac {
 		String [] things = {"pie","pizza","apple","rice","cup","pizza", "apple"};
 		List <String> l = Arrays.asList(things);
 		
-		System.out.printf("%s\n ", l);
+		System.out.printf("%s ", l);
+		System.out.println();
 		
 		Set <String> set = new HashSet<String>(l);
 		System.out.printf("%s ", set);
