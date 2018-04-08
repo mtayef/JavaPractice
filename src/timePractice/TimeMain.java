@@ -1,5 +1,5 @@
 package timePractice;
-public class PracticeTime {
+public class TimeMain {
     public static void main(String[] args) {
         TimeConstructor con = new TimeConstructor();
         TimeConstructor con2 = new TimeConstructor(16);

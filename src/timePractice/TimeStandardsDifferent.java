@@ -1,5 +1,5 @@
 package timePractice;
-public class LearnTime
+public class TimeStandardsDifferent
 {
     public static void main(String[] args) {
         TimePractice tm = new TimePractice();
