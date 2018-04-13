@@ -1,4 +1,4 @@
-package problems;
+package problemSolving;
 public class CompoundInterestPractice
 {
     public static void main(String[] args)

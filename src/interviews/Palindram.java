@@ -9,7 +9,9 @@ public class Palindram {
 		
 		Scanner scan = new Scanner(System.in);
 		String s = scan.nextLine();
-		int len = s.length();
+		System.out.println(reverseWord(s));
+		scan.close();
+	/*	int len = s.length();
 		String rev= "";
 		
 		for(int i = len-1; i>=0; i--) 
@@ -17,7 +19,7 @@ public class Palindram {
 			rev += s.charAt(i);
 		}
 		
-		System.out.println("Reverse String is: "+rev);
+		System.out.println("Reverse String is: "+rev);*/
 	}
 	
 	public static String reverseWord(String s){

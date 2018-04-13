@@ -1,4 +1,4 @@
-package problems;
+package problemSolving;
 public class CalculateCircle {
 
     /*User will give you length of each side/no of sides

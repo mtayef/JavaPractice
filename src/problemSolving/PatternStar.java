@@ -1,4 +1,4 @@
-package problems;
+package problemSolving;
 public class PatternStar
 {
     public static void main(String[] args)

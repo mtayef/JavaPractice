@@ -1,4 +1,4 @@
-package basics;
+package problemSolving;
 
 import java.io.*;
 
