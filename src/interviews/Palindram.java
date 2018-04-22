@@ -32,6 +32,5 @@ public class Palindram {
 	        arr[j] = tmp;
 	    }
 	    return String.valueOf(arr);
-
 	}
 }
