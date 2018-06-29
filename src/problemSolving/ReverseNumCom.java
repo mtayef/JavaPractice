@@ -20,6 +20,7 @@ public class ReverseNumCom {
 			temp /=10;
 		}
 		System.out.println("\nSum of the numbers: "+sum);
+		scan.close();
 	}
 
 }

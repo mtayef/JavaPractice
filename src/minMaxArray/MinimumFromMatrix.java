@@ -19,9 +19,9 @@ public class MinimumFromMatrix {
 		//System.out.println(Math.max(2,4));
 		
 		int min = abc[0][0];
-		for (int row = 0; row < abc.length; row++)
+		for (int row = 0; row < abc.length; row++) // rows 
 		{
-			for (int col = 0; col < abc[row].length; col++) {
+			for (int col = 0; col < abc[row].length; col++) { // columns
 				System.out.print(abc[row][col] + "\t");
 			}
 		}

@@ -15,5 +15,6 @@ public class MathPractice
 		System.out.println("Second number: "+snum);
 		System.out.println("Answer is: "+answer);
 		System.out.println("Average is "+avg);
+		scan.close();
 	}
 }
